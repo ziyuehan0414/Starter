@@ -10,7 +10,7 @@
   "author": "ziyue",
   "license": "ISC",
   "devDependencies": {
-    "node-sass": "^4.13.1"
+    "node-sass": "^7.0.0"
   },
   "dependencies": {
     "serve": "^11.3.0"
